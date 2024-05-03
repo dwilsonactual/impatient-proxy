@@ -1,6 +1,6 @@
 This is an http proxy that terminates a request to a URL matching a certain pattern after 3 seconds.
 
-I wrote this to test copilot chat streaming connections getting interrupted.
+I wrote this to test SSE connections getting interrupted.
 
 Run with `npx ts-node index.ts`
 
